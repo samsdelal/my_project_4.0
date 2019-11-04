@@ -1,7 +1,7 @@
 import random as r
 import local as lc
 import string
-from prettytable import PrettyTable #Для установки данной библиоткеи введите в terminal 'easy_install prettytable'
+from prettytable import PrettyTable #Для установки данной библиотеки введите в terminal 'easy_install prettytable'
 
 table = PrettyTable(['Количество', 'Сгенерированные пароли'])
 time = 0
